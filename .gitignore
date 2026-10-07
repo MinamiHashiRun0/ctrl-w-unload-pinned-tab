@@ -1,0 +1,3 @@
+# Dependencies / local state
+backup-*/
+*.log
